@@ -1,0 +1,32 @@
+/*Esto es de la página 2, 3 Y 5*/
+.container {
+    background-image: url('Images/header.png');
+    background-size: cover;
+    height: 100px;
+    width: 100%; 
+}
+
+.seccion-color {
+    background-color: #13322B;
+  }
+
+  a {
+    color: white;
+    text-decoration: none;
+  }
+
+
+
+
+/* Esto es de la página 2 Y 3 */
+   h2 {
+    margin-bottom:-30px;
+   }
+
+  .linea-cafe {
+    border: none;
+    border-top: 4px solid #B38E5D;
+    margin: 3px;
+    width:5%;
+  }
+  
