@@ -33,3 +33,9 @@
   a:hover {
     color: green;
   }
+  /*Esto es del index */
+  body.index {
+    background-image: url("Images/onda.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
