@@ -34,7 +34,7 @@
     color: green;
   }
   /*Esto es del index */
-  body.index {
+  .index {
     background-image: url("Images/onda.svg");
     background-repeat: no-repeat;
     background-size: cover;
