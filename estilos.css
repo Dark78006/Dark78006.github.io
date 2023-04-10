@@ -38,6 +38,7 @@
     background-image: url("Images/onda.svg");
     background-repeat: no-repeat;
     background-size: cover;
+    height: auto;
   }
   .parrafo-index {
     color: white;
